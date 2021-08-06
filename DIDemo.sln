@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorker.Console", "src\BackgroundWorker.Console\BackgroundWorker.Console.csproj", "{DCA29C13-88EA-4569-BCFF-0C2272B53D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorker.Example", "BackgroundWorker.Example\BackgroundWorker.Example.csproj", "{6C68A451-7351-4BBD-AE6D-B4D021F26F3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorker.Example", "src\BackgroundWorker.Example\BackgroundWorker.Example.csproj", "{6C68A451-7351-4BBD-AE6D-B4D021F26F3B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConsoleApp", "src\BasicConsoleApp\BasicConsoleApp.csproj", "{05C73235-D866-4F52-8FA0-16B0BA8C6043}"
 EndProject
